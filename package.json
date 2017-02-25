@@ -2,7 +2,9 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "skrollr": "^0.6.26"
+  },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "del": "^2.2.2",
